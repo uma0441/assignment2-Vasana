@@ -8,4 +8,4 @@ WA Lab - 02
 
 I have born and brought up in Rajahmundry. I have completed my schooling in my town. I have great memories in my town and my parents lives in India.
 
-**I Love to learn WEB APPS **.
+**I Love to learn WEB APPS**.
