@@ -11,9 +11,9 @@ I have born and brought up in Rajahmundry. I have completed my schooling in my t
 **I Love to learn WEB APPS**.
 
 
-# Ordered List
+## Ordered List
 ---
-# Travel Plan
+### Travel Plan
 1. My Favourite Place is Newyork,  
     1. first we need to book flight from MCI-Kansas Airport to Newyork
     2. there we need to get the UBER and start exporing the Newyork.
@@ -30,4 +30,14 @@ I have born and brought up in Rajahmundry. I have completed my schooling in my t
 
 **[About Myself](AboutMe.md)**
 ---
+### Tables
+---
+This is Table Example
+|Food      |Place      |Price|
+| :---:    | :---:     |:---:| 
+|Biryani   |Hyderabad  | 10$ |
+|Kaju barfi|Rajahmundry| 5$  |
+|Dosa      |Rajahmundry| 2$ |
+|Chaat     |Rajahmundry| 1$ |
+
 
