@@ -48,9 +48,10 @@ This is Table Example
 ### Code Fencing
 ---
 > This is Sqrt Tree Algorithm from CP-Alogorithms <br>
-```
+
 **[Sqrt Algorithm - Source Code](https://cp-algorithms.com/data_structures/sqrt-tree.html)**
 
+```
 SqrtTreeItem op(const SqrtTreeItem &a, const SqrtTreeItem &b);
 
 inline int log2Up(int n) {
