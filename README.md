@@ -40,4 +40,9 @@ This is Table Example
 |Dosa      |Rajahmundry| 2$ |
 |Chaat     |Rajahmundry| 1$ |
 
+### Pithy Quotes
+---
+> If you can dream it, you can do it. *-Walt Disney* <br>
+> You will never win if you never begin. *-Helen Rowland*
+
 
