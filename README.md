@@ -49,7 +49,7 @@ This is Table Example
 ---
 > This is Sqrt Tree Algorithm from CP-Alogorithms <br>
 ```
-##### **[Sqrt-Source Code](https://cp-algorithms.com/data_structures/sqrt-tree.html)**
+**[Sqrt Algorithm - Source Code](https://cp-algorithms.com/data_structures/sqrt-tree.html)**
 
 SqrtTreeItem op(const SqrtTreeItem &a, const SqrtTreeItem &b);
 
